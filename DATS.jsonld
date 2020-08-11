@@ -559,6 +559,46 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -763,6 +803,46 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
@@ -971,6 +1051,46 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1175,6 +1295,46 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
@@ -1383,6 +1543,46 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1587,6 +1787,46 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
@@ -1795,6 +2035,46 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1999,6 +2279,46 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
@@ -2207,6 +2527,46 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -2411,6 +2771,46 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
@@ -2619,6 +3019,46 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -2825,6 +3265,46 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -3029,6 +3509,46 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
