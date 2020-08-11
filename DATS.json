@@ -1,0 +1,2400 @@
+{
+  "title": "Long-term, Phantom Quality Assurance data for functional Magnetic Resonance Imaging from 13 3T research scanners",
+  "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Siemens Prisma MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+  "dates": [
+    {
+      "date": "2014-05-05",
+      "type": {
+        "value": "Start Date"
+      }
+    },
+    {
+      "date": "2018-07-10",
+      "type": {
+        "value": "End Date"
+      }
+    }
+  ],
+  "storedIn": {
+    "name": "Brain-CODE",
+    "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+    "publishers": [
+      {
+        "name": "Ontario Brain Institute",
+        "abbreviation": "OBI"
+      }
+    ]
+  },
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "MRI"
+      }
+    },
+    {
+      "information": {
+        "value": "QA Summary Results"
+      }
+    }
+  ],
+  "availability": "available",
+  "refinement": "",
+  "aggregation": "instance of dataset",
+  "privacy": "Registered access",
+  "distributions": [
+    {
+      "formats": [
+        "DICOM",
+        "CSV"
+      ],
+      "size": 103,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "Public"
+          }
+        ]
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Canadian Biomarker Integration Network in Depression",
+          "abbreviation": "CAN-BIND"
+        },
+        {
+          "name": "Ontario Neurodegeneration Disease Research Initiative",
+          "abbreviation": "ONDRI"
+        },
+        {
+          "name": "Government of Ontario"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Quality Assurance"
+    },
+    {
+      "value": "MRI Scanner"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": 13
+        }
+      ]
+    },
+    {
+      "category": "scan sessions",
+      "values": [
+        {
+          "value": 629
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": 2685440
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "CONP"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE Team, spred@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    }
+  ],
+  "version": "1.0",
+  "hasPart": [
+    {
+      "title": "Phantom fBIRN Quality Assurance - A3W",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Siemens Prisma MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2017-10-24",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-07-10",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 4.8,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 36
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 10080
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - D9K",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a GE Discovery MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-12-02",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-05-02",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 10.5,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 47
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 483160
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - E6J",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a GE Discovery MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-05-05",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-04-11",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 11,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 48
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 493440
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - F1X",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Philips Achieva MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2015-04-09",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-04-10",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 4.8,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 30
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 308400
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - F4A",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Siemens Prisma MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-07-02",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-05-04",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 5.2,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 41
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 11480
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - F6W",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Siemens Skyra MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2015-02-05",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-05-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 6,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 47
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 13160
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - J7I",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Siemens TrioTim MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-05-26",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-05-07",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 6.6,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 46
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 15180
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - K7V",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a GE Discovery MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-07-10",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-04-30",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 12,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 47
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 509010
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - L0I",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Philips Achieva MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-10-23",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-05-26",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 6,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 38
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 390640
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - N4L",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a GE Signa MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-06-19",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-05-09",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 8,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 40
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 41120
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - P6F",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Siemens TrioTim MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2015-06-13",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-04-18",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 4,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 33
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 9240
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - R6B",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a Siemens TrioTim MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-07-02",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-07-03",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 17,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 141
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 49480
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "Phantom fBIRN Quality Assurance - Y6D",
+      "description": "fBIRN phantoms scanned monthly for as a QA measure to monitor between- and within-site stability in a GE Discovery MRI scanner participating studies of OBI's ONDRI and CAN-BIND programs.",
+      "dates": [
+        {
+          "date": "2014-07-24",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2018-05-07",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "QA Summary Results"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "DICOM",
+            "CSV"
+          ],
+          "size": 7.5,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Canadian Biomarker Integration Network in Depression",
+              "abbreviation": "CAN-BIND"
+            },
+            {
+              "name": "Ontario Neurodegeneration Disease Research Initiative",
+              "abbreviation": "ONDRI"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Quality Assurance"
+        },
+        {
+          "value": "MRI Scanner"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 1
+            }
+          ]
+        },
+        {
+          "category": "scan sessions",
+          "values": [
+            {
+              "value": 35
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 351050
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Brain-CODE Team, spred@braincode.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    }
+  ]
+}
