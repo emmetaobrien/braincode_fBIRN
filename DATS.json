@@ -60,7 +60,7 @@
         "landingPage": "https://www.braincode.ca/",
         "authorizations": [
           {
-            "value": "Public"
+            "value": "private"
           }
         ]
       }
@@ -261,7 +261,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -462,7 +462,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -663,7 +663,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -864,7 +864,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1065,7 +1065,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1266,7 +1266,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1467,7 +1467,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1668,7 +1668,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1869,7 +1869,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2070,7 +2070,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2271,7 +2271,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2472,7 +2472,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2673,7 +2673,7 @@
             "landingPage": "https://www.braincode.ca/",
             "authorizations": [
               {
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
