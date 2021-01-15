@@ -5,13 +5,13 @@
     {
       "date": "2014-05-05",
       "type": {
-        "value": "Start Date"
+        "value": "start date"
       }
     },
     {
       "date": "2018-07-10",
       "type": {
-        "value": "End Date"
+        "value": "end date"
       }
     }
   ],
@@ -206,13 +206,13 @@
         {
           "date": "2017-10-24",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-07-10",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -407,13 +407,13 @@
         {
           "date": "2014-12-02",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-05-02",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -608,13 +608,13 @@
         {
           "date": "2014-05-05",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-04-11",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -809,13 +809,13 @@
         {
           "date": "2015-04-09",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-04-10",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -1010,13 +1010,13 @@
         {
           "date": "2014-07-02",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-05-04",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -1211,13 +1211,13 @@
         {
           "date": "2015-02-05",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-05-01",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -1412,13 +1412,13 @@
         {
           "date": "2014-05-26",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-05-07",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -1613,13 +1613,13 @@
         {
           "date": "2014-07-10",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-04-30",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -1814,13 +1814,13 @@
         {
           "date": "2014-10-23",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-05-26",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -2015,13 +2015,13 @@
         {
           "date": "2014-06-19",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-05-09",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -2216,13 +2216,13 @@
         {
           "date": "2015-06-13",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-04-18",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -2417,13 +2417,13 @@
         {
           "date": "2014-07-02",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-07-03",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
@@ -2618,13 +2618,13 @@
         {
           "date": "2014-07-24",
           "type": {
-            "value": "Start Date"
+            "value": "start date"
           }
         },
         {
           "date": "2018-05-07",
           "type": {
-            "value": "End Date"
+            "value": "end date"
           }
         }
       ],
