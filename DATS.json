@@ -33,7 +33,8 @@
   "types": [
     {
       "information": {
-        "value": "MRI"
+        "value": "MRI",
+		"valueIRI": "http://uri.interlex.org/ilx_0779748"
       }
     },
     {
@@ -163,6 +164,14 @@
           "value": "logo.png"
         }
       ]
+    },
+	{
+      	"category": "registrationPage",
+      	"values": [
+       		{
+       			"value": "https://www.braincode.ca/user/register"
+        	}
+      	]
     },
     {
       "category": "origin_institution",
@@ -2777,14 +2786,6 @@
             }
           ]
         },
-		{
-      		"category": "registrationPage",
-      		"values": [
-        		{
-          			"value": "https://www.braincode.ca/user/register"
-        		}
-      		]
-    	},
         {
           "category": "origin_institution",
           "values": [
